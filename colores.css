@@ -25,7 +25,7 @@ blink .5s infinite step-end alternate;
 overflow: hidden;}
 @keyframes typing {from {width:0 ;}}
 
-@keyframes 50% {border-color : tranparent}
+@keyframes  {border-color : tranparent}
 
 .canciones {background-color: rgb(255, 255, 255);
 list-style: red 2px;
